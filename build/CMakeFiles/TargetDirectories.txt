@@ -1,0 +1,3 @@
+/Users/michelaguilera/Documents/Development/Minigames/build/CMakeFiles/game_manager.dir
+/Users/michelaguilera/Documents/Development/Minigames/build/CMakeFiles/edit_cache.dir
+/Users/michelaguilera/Documents/Development/Minigames/build/CMakeFiles/rebuild_cache.dir
